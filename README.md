@@ -2,7 +2,7 @@
 
 **Intern:** Kameswara Surya Yashmit Akundi  
 **Track:** Backend AI Engineering  
-**Cohort Term:** Through November 2026  
+**Cohort Term:** July-November
 
 ---
 
